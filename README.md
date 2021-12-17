@@ -1,6 +1,4 @@
-# OAuth1 [![Build Status](https://github.com/woodstock-tokyo/oauth1/workflows/test/badge.svg)](https://github.com/woodstock-tokyo/oauth1/actions?query=workflow%3Atest+branch%3Amaster) [![Coverage](https://gocover.io/_badge/github.com/woodstock-tokyo/oauth1)](https://gocover.io/github.com/woodstock-tokyo/oauth1) [![GoDoc](http://godoc.org/github.com/woodstock-tokyo/oauth1?status.svg)](http://godoc.org/github.com/woodstock-tokyo/oauth1)
-
-<img align="right" src="https://storage.googleapis.com/woodstock-tokyo/oauth1.png">
+# OAuth1
 
 Package `oauth1` provides a Go implementation of the [OAuth 1 spec](https://tools.ietf.org/html/rfc5849) to allow end-users to authorize a client (i.e. consumer) to access protected resources on his/her behalf.
 
